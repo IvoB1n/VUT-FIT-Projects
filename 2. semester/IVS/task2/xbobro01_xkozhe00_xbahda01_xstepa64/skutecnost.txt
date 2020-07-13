@@ -1,0 +1,7 @@
+1) nepouzili jsme vsechny zpusoby komunikace. Primarne jsme pouzivali Discord aTrello
+
+2) Deadliny - vzdy se nekomu chce prodlouzit chill a nechat vsechno az na konec.
+Proto, kdyz nekdo udelal svou cast praci, zacinal cekat na jineho, bez kusu kodu ktereho nemuze pracovat dal.
+
+3) Rozdeleni ukolu - kvuli tomu, ze jsme meli ruzne znalosti, tak jsme trochu zmenili rozdeleni
+a kazdy mel moznost pracovat nad kouskem projektu, ktery mu zajima nejvic

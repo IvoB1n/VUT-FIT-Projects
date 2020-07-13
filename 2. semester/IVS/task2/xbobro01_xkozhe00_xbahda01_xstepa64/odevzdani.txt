@@ -1,0 +1,4 @@
+30.04.2020, 02:10
+
+krome toho, co obsahuje archiv ve WISU
+tady je generovana dokumentace a taky .deb instalator 

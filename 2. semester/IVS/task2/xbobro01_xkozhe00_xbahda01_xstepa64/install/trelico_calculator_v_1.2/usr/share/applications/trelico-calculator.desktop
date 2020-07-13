@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=Trelico-calculator
+GenericName=Trelico-calculator
+Comment=This calculator can calculate basic mathematical operations and functions.
+Such as addition, subtraction, multiplication, division, factorial, root, and natural logarithm..
+Exec=/usr/local/bin/trelico-calculator
+TryExec=/usr/local/bin/trelico-calculator
+Icon=/usr/share/icons/trcalc-icon.xpm
+Terminal=false
+Type=Application
+Categories=Game;
+Keywords=Backup;

@@ -1,0 +1,48 @@
+﻿IVS - Practical Aspects of Software Design
+---------------------------------------------------------------------------------------------------------------------------
+Trelico inc. team:
+
+
+- xbobro01 Ivan Bobrov - leader 
+- xkozhe00 Kozhevnikov Dmitrii
+- xbahda01 Bahdanovich Viktoria
+- xstepa64 Stepaniuk Roman, Bc.
+
+
+---------------------------------------------------------------------------------------------------------------------------
+Deadlines:
+
+
+15.03 - trello, gitlab, PyQt
+18.03 - Plan, Makefile, tests, basis of GUI
+22.03 - GUI, math library
+29.03 - additional functionality, profiling
+02.04 - documentation, “help”, manual, instalator
+09.04 - mockup, testing whole project , debugging
+10.04 - final version
+12.04 - problems
+21.04 - release
+30.04 - installation
+
+
+---------------------------------------------------------------------------------------------------------------------------
+Tasks:
+
+
+xbobro01 - GUI, mockup, profiling
+xkozhe00 - Makefile, advanced math operations
+xbahda01 - documentation, manual, installation
+xstepa64 - tests, math library
+
+
+---------------------------------------------------------------------------------------------------------------------------
+Communications:
+
+
+Discord - voice chat
+Telegram - information channel, read only (leader - read/write)
+vk.com - text messeging
+
+---------------------------------------------------------------------------------------------------------------------------
+version control: GitLab
+How to: we will send an email to ivs.kontrola@gmail.com with invite link

@@ -1,0 +1,9 @@
+#! /bin/sh
+
+echo "Looking for old versions of Trelico-calculator.."
+
+if [ -d "/usr/share/trelico_calc" ]
+then
+        sudo rm -rf /usr/share/trelico_calc
+        echo "Removed old versions of trelico_calc"
+fi

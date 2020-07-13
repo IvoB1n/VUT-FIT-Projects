@@ -1,0 +1,4 @@
+xbobro01 100 (team lead, GUI, mockup, profiling)
+xkozhe00 100 (Makefile, advanced math operations)
+xbahda01 100 (documentation, manual, UI)
+xstepa64 100 (tests, math library, installation)
